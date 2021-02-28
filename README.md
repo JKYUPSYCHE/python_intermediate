@@ -4,4 +4,4 @@
 ##### 1. advanced class & method
 ##### 2. study what is magic(special method)
 ##### 3. learn about sequence structure
-##### 4.
+##### 4. first-class function & Closure
