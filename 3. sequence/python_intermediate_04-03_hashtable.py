@@ -49,7 +49,7 @@ for k, v in source:
 
 print(new_dict2)
 
-# 주의
+# 주의 : 결과값이 위의 코드들과 다름
 new_dict3 = {k: v for k, v in source}
 
 print(new_dict3)

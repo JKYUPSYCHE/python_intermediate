@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d7d71a9-7610-4408-bdab-dbdd4a7aba10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/4. first-class function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_intermediate_05-03_closure_advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_setup/python_intermediate_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0. python_setup/python_intermediate_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-01_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-01_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-02_tuple_unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-02_tuple_unpacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-03_hashtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-03_hashtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-04_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-04_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-05_testgithub.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1p5b3pa9IitpZKZ4etRGxwXrFGO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.python_intermediate_05-03_closure_advanced">
+    <configuration name="python_intermediate_05-01_firstclass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="4. first-class function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_intermediate_05-01_firstclass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_intermediate_05-02_closure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4. first-class function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_intermediate_05-02_closure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_intermediate_05-03_closure_advanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4. first-class function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_intermediate_05-03_closure_advanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_intermediate_closure_advanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4. first-class function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_intermediate_closure_advanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python_intermediate_05-03_closure_advanced" />
+        <item itemvalue="Python.python_intermediate_closure_advanced" />
+        <item itemvalue="Python.python_intermediate_05-02_closure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7d71a9-7610-4408-bdab-dbdd4a7aba10" name="Default Changelist" comment="" />
+      <created>1614475703125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614475703125</updated>
+    </task>
+    <task id="LOCAL-00001" summary="study what is first-class function, features of functions in python.">
+      <created>1614490570314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614490570314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="understand what is closure">
+      <created>1614490768054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614490768054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study what is first-class function, features of functions in python." />
+    <MESSAGE value="understand what is closure" />
+    <option name="LAST_COMMIT_MESSAGE" value="understand what is closure" />
+  </component>
+</project>
