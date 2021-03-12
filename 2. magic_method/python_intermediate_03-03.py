@@ -14,15 +14,16 @@ from math import sqrt # math 모듈의 제곱근을 구하는 함수 import
 l_length1 = sqrt((pt1[0] - pt2[0]) ** 2 + (pt1[1] - pt2[1]) ** 2) # index를 이용해 접근 하는 방식은 헷갈린다.
 print(l_length1)
 
-# 네임드 튜플 사용
+# 네임드 튜플 사용 - 딕셔너리 형태로 사용다능한 tuple
 from collections import namedtuple
 
 # 네임드 튜플 선언 방법
 Point = namedtuple('Point', 'x y') # 선언하는 방법은 여러가지
+# 클래스 형식으로 튜플을 추상화
 pt3 = Point(1.0, 5.0)
 pt4 = Point(2.5, 1.5)
 print(pt3, pt4) # Point(x=1.0, y=5.0) Point(x=2.5, y=1.5)
-print(pt3[0])
+print(pt3[0])   # index로도 접근 가능하지만 좋지 못한 접근방식
 
 l_length2 = sqrt((pt3.x - pt4.x) ** 2 + (pt3.y - pt4.y) ** 2) # index를 사용하는 방식보다 명시적.
 print(l_length2)
@@ -45,7 +46,7 @@ p1 = Point1(x=10, y=35)
 p2 = Point2(20, 40)
 p3 = Point3(y=20, x=40)
 # rename test
-p4 = Point4(10, 20, 30, 50)
+p4 = Point4(10, 20, 30, 50)  # rename = True 이기 떄문에 난수로 이름 할당
 # dictionary unpacking test
 p5 = Point(**temp_dict) # dictionary 형태를 unpacking 하여 mapping
 
@@ -92,7 +93,7 @@ print(ranks)
 students = [Classes(rank, number) for rank in ranks for number in numbers]
 print(len(students))
 print(students)
-
+print('-' * 30)
 # List Comprehension을 좀 더 가독성 있게 만드는 법 - 위의 과정을 내부적으로 처리
 students2 = [Classes(rank, number)
              for rank in 'A B C D'.split()

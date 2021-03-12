@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2d7d71a9-7610-4408-bdab-dbdd4a7aba10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/4. first-class function.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_intermediate_05-03_closure_advanced.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../advanced_class&amp;method/python_intermediate_02-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1. advanced_class&amp;method/python_intermediate_02-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic_method/python_intermediate_03-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2. magic_method/python_intermediate_03-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_setup/python_intermediate_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0. python_setup/python_intermediate_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-01_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-01_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-02_tuple_unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-02_tuple_unpacking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-03_hashtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-03_hashtable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-04_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3. sequence/python_intermediate_04-04_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence/python_intermediate_04-05_testgithub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_intermedaite)_05-04_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_intermedaite_05-04_decorator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.python_intermediate_05-03_closure_advanced">
+  <component name="RunManager" selected="Python.python_intermedaite)_05-04_decorator">
+    <configuration name="python_intermedaite)_05-04_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4. first-class function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_intermedaite)_05-04_decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="python_intermediate_05-01_firstclass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="4. first-class function" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,9 +156,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_intermedaite)_05-04_decorator" />
+        <item itemvalue="Python.python_intermediate_05-02_closure" />
         <item itemvalue="Python.python_intermediate_05-03_closure_advanced" />
         <item itemvalue="Python.python_intermediate_closure_advanced" />
-        <item itemvalue="Python.python_intermediate_05-02_closure" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614490768054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learn what is decorator and use examples">
+      <created>1614843363586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614843363586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +211,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study what is first-class function, features of functions in python." />
     <MESSAGE value="understand what is closure" />
-    <option name="LAST_COMMIT_MESSAGE" value="understand what is closure" />
+    <MESSAGE value="learn what is decorator and use examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn what is decorator and use examples" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1139" y="219" key="FileChooserDialogImpl" timestamp="1615178165407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1139" y="219" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1615178165407" />
+    <state width="910" height="328" key="GridCell.Tab.0.bottom" timestamp="1614843371627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614843371627" />
+    <state width="910" height="328" key="GridCell.Tab.0.center" timestamp="1614843371626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614843371626" />
+    <state width="910" height="328" key="GridCell.Tab.0.left" timestamp="1614843371626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614843371626" />
+    <state width="910" height="328" key="GridCell.Tab.0.right" timestamp="1614843371627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="328" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614843371627" />
   </component>
 </project>
